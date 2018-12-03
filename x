@@ -7,10 +7,12 @@ im adding files
 from remote
 to untracked
 but not dsplys in untracked
-hi im
-again
-hi
+hi i
 every one
 prasad
 hi hello
 world
+i wll changes
+again
+123 
+456
